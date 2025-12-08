@@ -1,7 +1,7 @@
 # ¡Hola, soy Nahuel Molina Hernando, desarrollador Full Stack en formación!👨‍💻
 
 <p align="center">
-  <img src="https://github.com/Nahumolher/Nahumolher/blob/main/Captura%20de%20pantalla%202025-12-08%20142414.png?raw=true" alt="Banner" width="100%">
+  <img src="https://github.com/Nahumolher/Nahumolher/blob/main/Tarjeta%20Nahuel%20Molina.png?raw=true" alt="Banner" width="100%">
 </p>
 
 
