@@ -30,11 +30,13 @@ Explora las **principales herramientas** y **lenguajes** que utilizo en mis desa
 ## 📊 Estadísticas de GitHub
 Un vistazo a mi actividad y contribuciones recientes:
 
-<p align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=Nahumolher&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-  ![](https://nirzak-streak-stats.vercel.app/?user=Nahumolher&theme=dark&hide_border=false)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahumolher&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nahumolher&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Nahumolher&theme=dark&hide_border=false"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahumolher&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</div>
 
 ---
 ***📧 ¡Hablemos! 🤝***
