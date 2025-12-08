@@ -10,7 +10,7 @@ Soy un **Estudiante avanzado** de Programación Universitaria (UTN) con sólida 
 Mi enfoque principal es el **aprendizaje continuo**, la aplicación de **buenas prácticas de código** y la colaboración efectiva dentro de **equipos ágiles (SCRUM)** para asegurar la entrega de productos de alta calidad.
 
 ---
-***🚀 Habilidades y Enfoque 🎯***
+
 ---
 
 ## 🛠️ Stack Tecnológico
@@ -24,22 +24,20 @@ Explora las **principales herramientas** y **lenguajes** que utilizo en mis desa
 | **Control de Versiones** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 
 ---
-***📈 Mi Actividad en Código 📊***
+
 ---
 
 ## 📊 Estadísticas de GitHub
 Un vistazo a mi actividad y contribuciones recientes:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nahumolher&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Nahumolher&theme=dark&hide_border=false"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahumolher&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=pepep&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=pepep&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pepep&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-***📧 ¡Hablemos! 🤝***
+***📧 ¡Hablemos!
 ---
 
 ## 🌐 Conexión
