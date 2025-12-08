@@ -1,6 +1,8 @@
 # ¡Hola, soy Nahuel Molina Hernando, desarrollador Full Stack en formación!👨‍💻
 
-
+<p align="center">
+  <img src=""C:\Users\nahue\OneDrive\Imágenes\Capturas de pantalla\Captura de pantalla 2025-12-08 122708.png"" alt="Banner" width="100%">
+</p>
 
 
 
