@@ -1,3 +1,11 @@
+# ¡Hola, soy Nahuel Molina Hernando, desarrollador Full Stack en formación!👨‍💻
+
+
+
+
+
+
+
 #  🚀 About Me:
 🎓 Estudiante de último año de Programación Universitaria en UTN, con formación Full Stack y preparado para iniciar mi carrera profesional en desarrollo web.<br>👨‍💻 Experiencia trabajando en frontend y backend, aplicando tecnologías modernas y buenas prácticas para crear aplicaciones funcionales y escalables.<br>🔄 Participación en proyectos colaborativos, utilizando SCRUM y metodologías ágiles para organizar y entregar desarrollos de calidad.<br>🚀 Motivado por aprender, crecer y aportar valor, con actitud proactiva y enfoque en la mejora continua dentro de equipos de desarrollo.
 
