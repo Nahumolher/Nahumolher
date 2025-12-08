@@ -11,7 +11,7 @@ Soy un **Estudiante avanzado** de Programación Universitaria (UTN) con sólida 
 Mi enfoque principal es el **aprendizaje continuo**, la aplicación de **buenas prácticas de código** y la colaboración efectiva dentro de **equipos ágiles (SCRUM)** para asegurar la entrega de productos de alta calidad.
 
 ---
-***🚀 Habilidades y Enfoque 🎯***
+
 ---
 
 ## 🛠️ Stack Tecnológico
@@ -25,7 +25,7 @@ Explora las **principales herramientas** y **lenguajes** que utilizo en mis desa
 | **Control de Versiones** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 
 ---
-***📈 Mi Actividad en Código 📊***
+
 ---
 
 ## 📊 Estadísticas de GitHub
@@ -36,14 +36,14 @@ Un vistazo a mi actividad y contribuciones recientes:
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Nahumolher&theme=dark&hide_border=false" alt="GitHub Streak"/>
   <br/>
- username=Nahumolher&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+
 </div>
 
 ---
-***📧 ¡Hablemos! 🤝***
+
 ---
 
-## 📧 Conexión y Contacto
+## 📧 ¡Hablemos!
 
 Si estás interesado en mi perfil o en colaborar en un proyecto, **¡no dudes en contactarme!**
 
