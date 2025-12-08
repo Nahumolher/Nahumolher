@@ -50,6 +50,6 @@ Si estás interesado en mi perfil o en colaborar en un proyecto, **¡no dudes en
 | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nahuelmolina) | [Perfil de Instagram](https://instagram.com/_nahuelmolina) |
 | [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nahuelmolher024@gmail.com) | [Enviar Correo Electrónico](mailto:nahuelmolher024@gmail.com) |
 
-<p align="center">
+p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Nahumolher&icon=0&color=0" alt="Contador de Visitas">
 </p>
