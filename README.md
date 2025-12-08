@@ -52,5 +52,5 @@ Si estás interesado en mi perfil o en colaborar en un proyecto, **¡no dudes en
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nahumolher&color=blue" alt="Contador de Visitas">
+  <img src="https://komarev.com/ghpvc/?username=Nahumolher&label=VISTAS%20DEL%20PERFIL&color=silver&style=flat-square" alt="Contador de Visitas">
 </p>
