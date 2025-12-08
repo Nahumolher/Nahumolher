@@ -1,4 +1,4 @@
-# 🌟 Always Learning | Nahuel Molina Hernando 🚀
+# Always Learning | Nahuel Molina Hernando 🚀
 
 <p align="center">
   <img src="https://github.com/Nahumolher/Nahumolher/blob/main/Tarjeta%20Nahuel%20Molina.png?raw=true" alt="Banner de Presentación - Desarrollador Full Stack" width="100%">
@@ -37,10 +37,10 @@ Un vistazo a mi actividad y contribuciones recientes:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pepep&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-***📧 ¡Hablemos!
+
 ---
 
-## 🌐 Conexión
+## 📧 ¡Hablemos!
 
 Si estás interesado en mi perfil o en colaborar en un proyecto, **¡no dudes en contactarme!**
 
