@@ -45,7 +45,17 @@ Un vistazo a mi actividad y contribuciones recientes:
 ---
 
 
+---
 
+## 📈 Reporte de Lenguajes Más Usados
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahumolher&layout=compact&theme=dark&hide_border=false" alt="Lenguajes Más Usados"/>
+
+</div>
+
+---
 ## 📧 ¡Hablemos!
 
 Si estás interesado en mi perfil o en colaborar en un proyecto, **¡no dudes en contactarme!**
