@@ -49,48 +49,15 @@ Un vistazo a mi actividad y contribuciones recientes:
 
 
 ## 📈 Lenguajes Más Usados
-
 <div align="center">
 
-  <div style="
-      background: #0d1117;
-      border: 1px solid #30363d;
-      padding: 20px;
-      width: 420px;
-      border-radius: 10px;
-      text-align: left;
-      color: white;
-      font-family: Arial;
-    ">
-    
-  <h3 style="text-align:center; margin-top: 0;">📦 Reporte de Lenguajes</h3>
-
-  <b>JavaScript</b>
-  <div style="background:#30363d; border-radius:5px; height:12px; margin-bottom:10px;">
-    <div style="background:#238636; width:90%; height:100%; border-radius:5px;"></div>
-  </div>
-
-  <b>HTML / CSS</b>
-  <div style="background:#30363d; border-radius:5px; height:12px; margin-bottom:10px;">
-    <div style="background:#238636; width:95%; height:100%; border-radius:5px;"></div>
-  </div>
-
-  <b>Python</b>
-  <div style="background:#30363d; border-radius:5px; height:12px; margin-bottom:10px;">
-    <div style="background:#238636; width:75%; height:100%; border-radius:5px;"></div>
-  </div>
-
-  <b>C#</b>
-  <div style="background:#30363d; border-radius:5px; height:12px; margin-bottom:10px;">
-    <div style="background:#238636; width:60%; height:100%; border-radius:5px;"></div>
-  </div>
-
-  <b>SQL</b>
-  <div style="background:#30363d; border-radius:5px; height:12px; margin-bottom:10px;">
-    <div style="background:#238636; width:80%; height:100%; border-radius:5px;"></div>
-  </div>
-
-</div>
+| Lenguaje | Nivel de uso | Progreso |
+|---------|--------------|----------|
+| **JavaScript** | 90% | ██████████░ |
+| **HTML/CSS** | 95% | ███████████ |
+| **Python** | 60% | ████████░░░ |
+| **C#** | 75% | ██████░░░░ |
+| **SQL** | 80% | ████████░░ |
 
 </div>
 
