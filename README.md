@@ -67,7 +67,7 @@ Un resumen visual de los lenguajes que más utilizo en mis proyectos:
   <tr>
     <td><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="35"/></td>
     <td>
-      <img src="https://img.shields.io/badge/████████-75%25-blue?style=flat-square" height="25"/>
+      <img src="https://img.shields.io/badge/████████-50%25-blue?style=flat-square" height="25"/>
     </td>
   </tr>
   <tr>
