@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/Nahumolher/Nahumolher/blob/main/FONDO.png?raw=true" alt="Banner de Presentación - Desarrollador Full Stack" width="100%">
+  <img src="https://github.com/Nahumolher/Nahumolher/blob/main/Nahuel%20Molina%20Hernando%20(1).png?raw=true" alt="Banner de Presentación - Desarrollador Full Stack" width="100%">
 </p>
 
 ## 🧑‍💻 Perfil Profesional
