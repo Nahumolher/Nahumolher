@@ -16,7 +16,14 @@ Mi enfoque principal es el **aprendizaje continuo**, la aplicación de **buenas 
 ---
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nahumolher&theme=rose_pine)
+<div align="center">
+ 
+  <br/>
+      ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nahumolher&theme=rose_pine)
+  <br/>
+
+</div>
+
 
   
 ---
