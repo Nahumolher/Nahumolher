@@ -1,5 +1,6 @@
+<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=DE5D83&center=true&vCenter=true&width=450&lines=⚡+Nahuel+Molina+Hernando;Always+Learning+and+Creating!+🚀" alt="Typing SVG" />
-
+</div>
 
 
 <p align="center">
