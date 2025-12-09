@@ -71,11 +71,11 @@ Si estás interesado en mi perfil o en colaborar en un proyecto, **¡no dudes en
 
 
 
-| Red Social | ¡Contactame! |
-|-----------|--------|
-| <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40"/> | [Enviar Mensaje](https://wa.me/5493816194179) |
-| <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/> | [Perfil de Instagram](https://instagram.com/_nahuelmolina) |
-| <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/> | [Enviar Correo](mailto:nahuelmolher024@gmail.com) |
+ ¡Contactame! 
+
+ <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40"/>  [Enviar Mensaje](https://wa.me/5493816194179) 
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/>  [Perfil de Instagram](https://instagram.com/_nahuelmolina) 
+ <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>  [Enviar Correo](mailto:nahuelmolher024@gmail.com) 
 
 
 
