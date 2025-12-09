@@ -20,12 +20,17 @@ Mi enfoque principal es el **aprendizaje continuo**, la aplicación de **buenas 
 ## 🛠️ Stack Tecnológico
 Explora las **principales herramientas** y **lenguajes** que utilizo en mis desarrollos:
 
+<div align="center">
+ 
+
 | Categoría | Tecnologías Clave |
 | :--- | :--- |
 | **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
 | **Backend / Runtime** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C Sharp](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |
 | **Bases de Datos** | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
 | **Control de Versiones** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
+</div>
+
 
 ---
 
@@ -70,12 +75,15 @@ Un vistazo a mi actividad y contribuciones recientes:
 Si estás interesado en mi perfil o en colaborar en un proyecto, **¡no dudes en contactarme!**
 
 
-
+<div align="center">
  ¡Contactame! 
 
  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493816194179) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nahuelmolina) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahuelmolher024@gmail.com)
+
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nahumolher&label=VISTAS%20DEL%20PERFIL&color=lightgrey&style=social" alt="Contador de Visitas">
 </p>
