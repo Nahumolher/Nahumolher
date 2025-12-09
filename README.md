@@ -14,6 +14,7 @@ Soy un **Estudiante avanzado** de Programación Universitaria (UTN) con sólida 
 Mi enfoque principal es el **aprendizaje continuo**, la aplicación de **buenas prácticas de código** y la colaboración efectiva dentro de **equipos ágiles (SCRUM)** para asegurar la entrega de productos de alta calidad.
 
 ---
+
 <div aling="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nahumolher&theme=rose_pine)
 <div/>
