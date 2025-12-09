@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://github.com/Nahumolher/Nahumolher/blob/main/Nahuel%20Molina%20Hernando%20(2).png?raw=true" alt="Banner de Presentación - Desarrollador Full Stack" width="100%">
 </p>
-
+--- 
 ## 🧑‍💻 Perfil Profesional
 
 Soy un **Estudiante avanzado** de Programación Universitaria (UTN) con sólida formación como **Desarrollador Full Stack**. Mi experiencia se centra en la construcción de **soluciones web funcionales y escalables**, aplicando tecnologías modernas tanto en el **Frontend** como en el **Backend**.
@@ -13,7 +13,7 @@ Mi enfoque principal es el **aprendizaje continuo**, la aplicación de **buenas 
 
 ---
 
----
+
 
 ## 🛠️ Stack Tecnológico
 Explora las **principales herramientas** y **lenguajes** que utilizo en mis desarrollos:
@@ -27,7 +27,7 @@ Explora las **principales herramientas** y **lenguajes** que utilizo en mis desa
 
 ---
 
----
+
 
 ## 📊 Estadísticas de GitHub
 Un vistazo a mi actividad y contribuciones recientes:
@@ -42,7 +42,7 @@ Un vistazo a mi actividad y contribuciones recientes:
 
 ---
 
----
+
 
 ## 📧 ¡Hablemos!
 
