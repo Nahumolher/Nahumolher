@@ -53,7 +53,7 @@ Un vistazo a mi actividad y contribuciones recientes:
 
 | Lenguaje | Nivel de uso | Progreso |
 |---------|--------------|----------|
-| **JavaScript** | 90% | ██████████░ |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)| 90% | ██████████ |
 | **HTML/CSS** | 95% | ███████████ |
 | **Python** | 60% | ████████░░░ |
 | **C#** | 75% | ██████░░░░ |
