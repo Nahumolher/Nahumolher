@@ -54,7 +54,6 @@ Un vistazo a mi actividad y contribuciones recientes:
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nahumolher&layout=compact&theme=tokyonight&hide_border=false" alt="Lenguajes más usados"/>
 
 </div>
-
 ---
 ## 📧 ¡Hablemos!
 
