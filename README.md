@@ -54,11 +54,14 @@ Un vistazo a mi actividad y contribuciones recientes:
 
 Si estás interesado en mi perfil o en colaborar en un proyecto, **¡no dudes en contactarme!**
 
-| Canal | Enlace |
-| :--- | :--- |
-| [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5493816194179) | [Enviar Mensaje Directo](https://wa.me/5493816194179) |
-| [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nahuelmolina) | [Perfil de Instagram](https://instagram.com/_nahuelmolina) |
-| [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nahuelmolher024@gmail.com) | [Enviar Correo Electrónico](mailto:nahuelmolher024@gmail.com) |
+## 📧 ¡Hablemos!
+
+| Red Social | Enlace |
+|-----------|--------|
+| <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40"/> | [Enviar Mensaje](https://wa.me/5493816194179) |
+| <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/> | [Perfil de Instagram](https://instagram.com/_nahuelmolina) |
+| <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/> | [Enviar Correo](mailto:nahuelmolher024@gmail.com) |
+
 
 
 <p align="center">
