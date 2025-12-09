@@ -49,46 +49,48 @@ Un vistazo a mi actividad y contribuciones recientes:
 
 
 ## 📈 Lenguajes Más Usados
-Un resumen visual de los lenguajes que más utilizo en mis proyectos:
 
 <div align="center">
 
-<table>
-  <tr>
-    <th>Lenguaje</th>
-    <th>Nivel de Uso</th>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35"/></td>
-    <td>
-      <img src="https://img.shields.io/badge/██████████-90%25-blue?style=flat-square" height="25"/>
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="35"/></td>
-    <td>
-      <img src="https://img.shields.io/badge/████████-50%25-blue?style=flat-square" height="25"/>
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="35"/></td>
-    <td>
-      <img src="https://img.shields.io/badge/███████-60%25-blue?style=flat-square" height="25"/>
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35"/></td>
-    <td>
-      <img src="https://img.shields.io/badge/██████████-95%25-blue?style=flat-square" height="25"/>
-    </td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35"/></td>
-    <td>
-      <img src="https://img.shields.io/badge/█████████-85%25-blue?style=flat-square" height="25"/>
-    </td>
-  </tr>
-</table>
+  <div style="
+      background: #0d1117;
+      border: 1px solid #30363d;
+      padding: 20px;
+      width: 420px;
+      border-radius: 10px;
+      text-align: left;
+      color: white;
+      font-family: Arial;
+    ">
+    
+  <h3 style="text-align:center; margin-top: 0;">📦 Reporte de Lenguajes</h3>
+
+  <b>JavaScript</b>
+  <div style="background:#30363d; border-radius:5px; height:12px; margin-bottom:10px;">
+    <div style="background:#238636; width:90%; height:100%; border-radius:5px;"></div>
+  </div>
+
+  <b>HTML / CSS</b>
+  <div style="background:#30363d; border-radius:5px; height:12px; margin-bottom:10px;">
+    <div style="background:#238636; width:95%; height:100%; border-radius:5px;"></div>
+  </div>
+
+  <b>Python</b>
+  <div style="background:#30363d; border-radius:5px; height:12px; margin-bottom:10px;">
+    <div style="background:#238636; width:75%; height:100%; border-radius:5px;"></div>
+  </div>
+
+  <b>C#</b>
+  <div style="background:#30363d; border-radius:5px; height:12px; margin-bottom:10px;">
+    <div style="background:#238636; width:60%; height:100%; border-radius:5px;"></div>
+  </div>
+
+  <b>SQL</b>
+  <div style="background:#30363d; border-radius:5px; height:12px; margin-bottom:10px;">
+    <div style="background:#238636; width:80%; height:100%; border-radius:5px;"></div>
+  </div>
+
+</div>
 
 </div>
 
