@@ -54,10 +54,10 @@ Un vistazo a mi actividad y contribuciones recientes:
 | Lenguaje | Nivel de uso | Progreso |
 |---------|--------------|----------|
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)| 90% | ██████████ |
-| **HTML/CSS** | 95% | ███████████ |
-| **Python** | 60% | ████████░░░ |
-| **C#** | 75% | ██████░░░░ |
-| **SQL** | 80% | ████████░░ |
+|  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | 95% | ███████████|
+|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)| 60% | ████████ |
+| ![C Sharp](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)| 75% | ██████|
+| ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | 80% | ████████ |
 
 </div>
 
