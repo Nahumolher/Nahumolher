@@ -50,7 +50,7 @@ Un vistazo a mi actividad y contribuciones recientes:
 <div align="center">
  
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Nahumolher&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Nahumolher&theme=rose_pine&hide_border=false" alt="GitHub Streak"/>
   <br/>
 
 </div>
